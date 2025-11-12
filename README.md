@@ -1,4 +1,4 @@
-## Olá, visitante! 👋
+## Olá 👋
 
 
 - 🔭 Estou atualmente trabalhando no projeto DSC (Digital Solutions Center)
